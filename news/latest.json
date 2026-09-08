@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "last_attempt": null,
+  "companies": [
+    {
+      "company_id": "ionq",
+      "name": "IonQ",
+      "ticker": "IONQ"
+    },
+    {
+      "company_id": "quantinuum",
+      "name": "Quantinuum",
+      "ticker": "QNT"
+    },
+    {
+      "company_id": "rigetti-computing",
+      "name": "Rigetti Computing",
+      "ticker": "RGTI"
+    },
+    {
+      "company_id": "d-wave-quantum",
+      "name": "D-Wave Quantum",
+      "ticker": "QBTS"
+    },
+    {
+      "company_id": "infleqtion",
+      "name": "Infleqtion",
+      "ticker": "INFQ"
+    },
+    {
+      "company_id": "xanadu",
+      "name": "Xanadu",
+      "ticker": "XNDU"
+    },
+    {
+      "company_id": "quantum-computing-inc",
+      "name": "Quantum Computing Inc.",
+      "ticker": "QUBT"
+    },
+    {
+      "company_id": "qc-technologies",
+      "name": "Q/C Technologies",
+      "ticker": "QCLS"
+    },
+    {
+      "company_id": "horizon-quantum",
+      "name": "Horizon Quantum",
+      "ticker": "HQ"
+    },
+    {
+      "company_id": "sealsq",
+      "name": "SEALSQ",
+      "ticker": "LAES"
+    },
+    {
+      "company_id": "arqit-quantum",
+      "name": "Arqit Quantum",
+      "ticker": "ARQQ"
+    },
+    {
+      "company_id": "btq-technologies",
+      "name": "BTQ Technologies",
+      "ticker": "BTQ"
+    },
+    {
+      "company_id": "quantum-emotion",
+      "name": "Quantum eMotion",
+      "ticker": "QNC"
+    },
+    {
+      "company_id": "iqm-quantum-computers",
+      "name": "IQM Quantum Computers",
+      "ticker": null
+    },
+    {
+      "company_id": "pasqal",
+      "name": "Pasqal",
+      "ticker": null
+    },
+    {
+      "company_id": "psiquantum",
+      "name": "PsiQuantum",
+      "ticker": null
+    }
+  ],
+  "briefing": null
+}
