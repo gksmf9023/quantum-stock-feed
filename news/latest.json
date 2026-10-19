@@ -1,6 +1,10 @@
 {
   "schema_version": 1,
-  "last_attempt": null,
+  "last_attempt": {
+    "at": "2026-10-19T04:11:43.946461+00:00",
+    "status": "no_updates",
+    "reason": null
+  },
   "companies": [
     {
       "company_id": "ionq",
@@ -70,12 +74,12 @@
     {
       "company_id": "iqm-quantum-computers",
       "name": "IQM Quantum Computers",
-      "ticker": null
+      "ticker": "IQMX"
     },
     {
       "company_id": "pasqal",
       "name": "Pasqal",
-      "ticker": null
+      "ticker": "PSQL"
     },
     {
       "company_id": "psiquantum",
@@ -83,5 +87,31 @@
       "ticker": null
     }
   ],
-  "briefing": null
+  "briefing": {
+    "report_date": "2026-10-19",
+    "generated_at": "2026-10-19T07:02:54+09:00",
+    "window_start": "2026-10-18T07:05:51+09:00",
+    "window_end": "2026-10-19T07:02:54+09:00",
+    "status": "no_updates",
+    "checked_company_ids": [
+      "ionq",
+      "quantinuum",
+      "rigetti-computing",
+      "d-wave-quantum",
+      "infleqtion",
+      "xanadu",
+      "quantum-computing-inc",
+      "qc-technologies",
+      "horizon-quantum",
+      "sealsq",
+      "arqit-quantum",
+      "btq-technologies",
+      "quantum-emotion",
+      "iqm-quantum-computers",
+      "pasqal",
+      "psiquantum"
+    ],
+    "unavailable_company_ids": [],
+    "items": []
+  }
 }
