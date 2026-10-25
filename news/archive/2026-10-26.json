@@ -1,0 +1,27 @@
+{
+  "report_date": "2026-10-26",
+  "generated_at": "2026-10-26T07:00:29+09:00",
+  "window_start": "2026-10-25T07:04:41+09:00",
+  "window_end": "2026-10-26T07:00:29+09:00",
+  "status": "no_updates",
+  "checked_company_ids": [
+    "ionq",
+    "quantinuum",
+    "rigetti-computing",
+    "d-wave-quantum",
+    "infleqtion",
+    "xanadu",
+    "quantum-computing-inc",
+    "qc-technologies",
+    "horizon-quantum",
+    "sealsq",
+    "arqit-quantum",
+    "btq-technologies",
+    "quantum-emotion",
+    "iqm-quantum-computers",
+    "pasqal",
+    "psiquantum"
+  ],
+  "unavailable_company_ids": [],
+  "items": []
+}
