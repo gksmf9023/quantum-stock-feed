@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "last_attempt": {
-    "at": "2026-10-28T21:04:57.326915+00:00",
+    "at": "2026-10-29T21:01:24.056549+00:00",
     "status": "ready",
     "reason": null
   },
@@ -88,10 +88,10 @@
     }
   ],
   "briefing": {
-    "report_date": "2026-10-29",
-    "generated_at": "2026-10-29T06:03:24+09:00",
-    "window_start": "2026-10-28T06:09:00+09:00",
-    "window_end": "2026-10-29T06:03:24+09:00",
+    "report_date": "2026-10-30",
+    "generated_at": "2026-10-30T06:00:00+09:00",
+    "window_start": "2026-10-29T06:03:24+09:00",
+    "window_end": "2026-10-30T06:00:00+09:00",
     "status": "ready",
     "checked_company_ids": [
       "ionq",
@@ -114,35 +114,58 @@
     "unavailable_company_ids": [],
     "items": [
       {
-        "id": "884c7e4d85d609d8ce31",
+        "id": "d4b9eba0fb8a254d246f",
         "company_ids": [
-          "d-wave-quantum"
+          "iqm-quantum-computers"
         ],
-        "headline": "QBTS·LG CNS, 기업 최적화 협력 MOU 체결…비구속적 합의로 수주 확정은 아님",
-        "summary": "[공시 사실] D-Wave는 10월 28일 SEC 8-K에서 LG CNS와 비구속적 MOU 체결을 알렸다. 양자 어닐링과 LG CNS의 최적화·시스템 통합 역량을 결합해 한국 및 해외 제조·통신·금융·유통 고객을 대상으로 공동 사업화를 추진한다. [회사 계획] 개념검증을 실제 운영으로 전환하는 것이 목표이며, 계약 금액·확정 주문·보장 매출은 공개되지 않았다.",
-        "analysis": "국내 대기업 고객에 접근할 협력 채널이 생겼다는 점은 의미가 있다. 다만 법적 구속력이 있는 공급계약이나 수주잔고 증가로 해석할 단계는 아니다. 후속 유료 계약과 실제 운영 전환 여부를 확인해야 한다.",
+        "headline": "IQMX, Emerald 54큐비트 전체 얽힘 시연 및 클라우드 제공 발표",
+        "summary": "[회사 발표·시험 결과] IQM은 10월 29일 Emerald 프로세서의 54큐비트 전체에서 GHZ 얽힘 상태를 만들었고 같은 성능을 클라우드 고객에게 제공한다고 밝혔다. 회사 측정값은 판독오류 완화(REM) 적용 시 54큐비트 상태 충실도 0.516, REM 미적용 시 40큐비트 0.515로, 얽힘 판정 기준 0.500을 넘었다. 이 값은 게이트 정확도나 논리 큐비트 수가 아니다. 신규 계약액·매출은 공개되지 않았다.",
+        "analysis": "일부 큐비트가 아닌 칩 전체에서 얽힘을 시연하고 고객 접근으로 연결한 기술 진전이다. 다만 서로 다른 REM 조건의 수치를 직접 비교하거나, 특정 GHZ 벤치마크를 범용 양자우위·오류보정 완성으로 해석하면 안 된다. 후속 독립 검증과 실제 고객 워크로드 성능이 관건이다.",
         "importance": "normal",
         "sources": [
           {
-            "title": "SEC Form 8-K: D-Wave·LG CNS 비구속적 MOU 공시",
-            "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000169/qbts-20261028.htm",
-            "published_date": "2026-10-28"
+            "title": "IQM IR: 전체 54큐비트 프로세서 얽힘 및 클라우드 제공 발표",
+            "url": "https://investors.iqm.tech/news-releases/news-release-details/iqm-demonstrates-entanglement-across-complete-54-qubit-processor",
+            "published_date": "2026-10-29"
           }
         ]
       },
       {
-        "id": "1858db31aa9884903a6e",
+        "id": "b32c0ef31efb5f2ed03f",
         "company_ids": [
-          "psiquantum"
+          "btq-technologies"
         ],
-        "headline": "PsiQuantum, AI 인프라용 8×8 광스위치 시제품 공개…잠재 고객 샘플 평가 단계",
-        "summary": "[회사 발표·시험 결과] PsiQuantum은 10월 28일 실리콘 포토닉스 기반 8×8 광회선 스위치(OCS) 시제품을 공개했다. 자체 실험실 시험에서 통상 삽입손실 1.2dB, 재구성 시간 3ms 미만을 제시했다. 일부 잠재 고객에게 샘플을 제공 중이며 향후 수개월 내 상용 제품 발표를 계획한다. 고객명·주문액·매출은 공개되지 않았다. 이번 시제품은 AI 데이터센터 연결용이며 양자컴퓨터 완성 발표가 아니다.",
-        "analysis": "양자컴퓨팅용 광자 기술을 AI 네트워크로 확장할 잠재적 사업 경로다. 그러나 성능은 회사 시험 결과이고 아직 시제품·평가 단계다. 독립 검증, 상용 제품 출시와 실제 유료 주문을 구분해 추적할 필요가 있다.",
+        "headline": "BTQ, MIMIQ 에뮬레이터 qBraid 연동 개시…3만5천명은 플랫폼 개발자 규모",
+        "summary": "[회사 발표·SEC 제출 자료] BTQ는 10월 29일 완전자회사 QPerfect의 MIMIQ 에뮬레이터를 qBraid 관리형 API로 이용할 수 있다고 발표했다. qBraid의 개발자 커뮤니티는 3만5천명 이상이나 MIMIQ 유료 고객 수가 아니다. 수천 큐비트·수백만 게이트 시뮬레이션 주장은 얽힘이 제한되는 등 MPS 기법에 적합한 회로 조건에 한정된다. 계약 금액·신규 매출은 공개되지 않았다.",
+        "analysis": "기존 개발 플랫폼 안에 실제 사용 경로를 추가한 유통·접근성 진전이다. 다만 일반 회로 전체를 해당 규모로 정확히 계산하거나 같은 규모 양자 하드웨어를 확보했다는 뜻은 아니다. 활성 사용자, 유료 전환과 매출 기여를 별도로 확인해야 한다.",
         "importance": "normal",
         "sources": [
           {
-            "title": "PsiQuantum: 저손실 실리콘 포토닉스 기반 OCS 기술 공개",
-            "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+            "title": "SEC 6-K Exhibit 99.1: BTQ MIMIQ·qBraid 연동 발표",
+            "url": "https://www.sec.gov/Archives/edgar/data/1821866/000127956926001011/ex991.htm",
+            "published_date": "2026-10-29"
+          }
+        ]
+      },
+      {
+        "id": "1bed8f61a5dedaacbc42",
+        "company_ids": [
+          "infleqtion",
+          "pasqal"
+        ],
+        "headline": "실적 일정: INFQ 11월 16일 장 마감 후; PSQL 11월 6일 장 시작 전(전일 누락 보완)",
+        "summary": "[회사 일정 공지] INFQ는 10월 29일 3분기 실적을 미국시간 11월 16일 장 마감 후 발표하고 같은 날 16:30 ET에 설명회를 연다고 밝혔다(한국시간 11월 17일 06:30). [전일 누락 보완] PSQL의 10월 28일 발표도 확인했다. PSQL은 미국시간 11월 6일 장 시작 전 3분기 주요 재무 지표·사업 현황을 공개하고 08:00 ET에 설명회를 개최한다(한국시간 11월 6일 22:00). PSQL 건은 이번 조사 구간의 신규 발표가 아니다. 두 공지 모두 실제 실적 수치나 가이던스 변경 발표는 아니다.",
+        "analysis": "해당 일정 전후에는 실적·수주·현금소진 관련 정보가 새로 나올 수 있다. 현재 확인된 것은 발표 일정뿐이므로 호실적이나 가이던스 상향을 선반영해 판단할 근거로 삼지 않는다.",
+        "importance": "normal",
+        "sources": [
+          {
+            "title": "Infleqtion IR: 2026년 3분기 실적 발표 일정",
+            "url": "https://ir.infleqtion.com/news-events/press-releases/detail/217/infleqtion-to-report-third-quarter-2026-financial-results-on-november-16-2026",
+            "published_date": "2026-10-29"
+          },
+          {
+            "title": "Pasqal IR: 2026년 3분기 사업 현황 발표 일정(전일 누락 보완)",
+            "url": "https://investors.pasqal.com/news-releases/news-release-details/pasqal-announces-third-quarter-2026-business-update-and",
             "published_date": "2026-10-28"
           }
         ]
