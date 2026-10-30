@@ -1,0 +1,45 @@
+{
+  "report_date": "2026-10-31",
+  "generated_at": "2026-10-31T06:01:49+09:00",
+  "window_start": "2026-10-30T06:00:00+09:00",
+  "window_end": "2026-10-31T06:01:49+09:00",
+  "status": "ready",
+  "checked_company_ids": [
+    "ionq",
+    "quantinuum",
+    "rigetti-computing",
+    "d-wave-quantum",
+    "infleqtion",
+    "xanadu",
+    "quantum-computing-inc",
+    "qc-technologies",
+    "horizon-quantum",
+    "sealsq",
+    "arqit-quantum",
+    "btq-technologies",
+    "quantum-emotion",
+    "iqm-quantum-computers",
+    "pasqal",
+    "psiquantum"
+  ],
+  "unavailable_company_ids": [],
+  "items": [
+    {
+      "id": "fcc8f144905fbdf40176",
+      "company_ids": [
+        "infleqtion"
+      ],
+      "headline": "INFQ, 미 해군 지원선에서 Tiqker 원자시계 2주 이상 연속 운용 발표…신규 수주는 미공개",
+      "summary": "[회사 발표] Infleqtion은 10월 30일 Maritime Big Play Pacific 훈련 중 미 해군 지원선 RV Merlin에서 Tiqker 광학 원자시계를 2주 이상 연속 운용했다고 밝혔다. 남부 캘리포니아 해역의 온도 변화·지속적 진동 환경에서 정밀 시각 기술을 시험했으며 BARB-26 훈련도 지원했다. 회사는 GPS에 의존하지 않는 시각 유지와 향후 해군 플랫폼 통합 가능성을 설명했다. 시험의 정확한 실시일, 정량적 시각 오차·항법 정확도, 신규 계약 금액·매출은 공개되지 않았다.",
+      "analysis": "실험실 밖 군 운용 환경에서 지속 작동했다는 점은 INFQ의 양자 센싱·시각 제품에 대한 현장 적용 검증 진전이다. 다만 회사 발표만으로 GPS 대체 항법 성능이나 정식 군 조달 채택이 입증된 것은 아니다. 후속 독립 시험 결과, 플랫폼 통합·조달 계약과 반복 매출 전환을 구분해 확인해야 한다. 양자컴퓨터 큐비트 성능 향상과도 별개다.",
+      "importance": "normal",
+      "sources": [
+        {
+          "title": "Infleqtion IR: Maritime Big Play Pacific 훈련 중 시각·항법 지원 기술 실증",
+          "url": "https://ir.infleqtion.com/news-events/press-releases/detail/218/infleqtion-demonstrates-timing-and-navigation-capabilities-during-the-maritime-big-play-pacific-military-exercise",
+          "published_date": "2026-10-30"
+        }
+      ]
+    }
+  ]
+}
