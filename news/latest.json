@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "last_attempt": {
-    "at": "2026-11-02T21:03:42.260875+00:00",
+    "at": "2026-11-03T21:01:21.700130+00:00",
     "status": "no_updates",
     "reason": null
   },
@@ -88,10 +88,10 @@
     }
   ],
   "briefing": {
-    "report_date": "2026-11-03",
-    "generated_at": "2026-11-03T06:02:36+09:00",
-    "window_start": "2026-11-02T06:05:41+09:00",
-    "window_end": "2026-11-03T06:02:36+09:00",
+    "report_date": "2026-11-04",
+    "generated_at": "2026-11-04T06:00:02+09:00",
+    "window_start": "2026-11-03T06:02:36+09:00",
+    "window_end": "2026-11-04T06:00:02+09:00",
     "status": "no_updates",
     "checked_company_ids": [
       "ionq",
