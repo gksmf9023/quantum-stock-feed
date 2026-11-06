@@ -1,0 +1,113 @@
+{
+  "report_date": "2026-11-07",
+  "generated_at": "2026-11-07T06:05:26+09:00",
+  "window_start": "2026-11-06T06:05:32+09:00",
+  "window_end": "2026-11-07T06:05:26+09:00",
+  "status": "ready",
+  "checked_company_ids": [
+    "ionq",
+    "quantinuum",
+    "rigetti-computing",
+    "d-wave-quantum",
+    "infleqtion",
+    "xanadu",
+    "quantum-computing-inc",
+    "qc-technologies",
+    "horizon-quantum",
+    "sealsq",
+    "arqit-quantum",
+    "btq-technologies",
+    "quantum-emotion",
+    "iqm-quantum-computers",
+    "pasqal",
+    "psiquantum"
+  ],
+  "unavailable_company_ids": [],
+  "items": [
+    {
+      "id": "12ae5bdb2f23781da8f2",
+      "company_ids": [
+        "ionq"
+      ],
+      "headline": "IONQ 3분기 매출 1억 7,380만 달러, 연간 전망 상향",
+      "summary": "11월 5일 발표된 3분기 매출은 1억 7,380만 미국달러로 전년 동기 대비 336% 증가했다. 이 중 SkyWater 파운드리 부문은 8,350만 달러다. 회사는 2026년 매출 가이던스를 기존 4억 5,000만~4억 6,000만 달러에서 5억 500만~5억 1,500만 달러로 상향했다. 조정 EBITDA 손실은 1억 3,360만 달러였다. 이 발표는 직전 보고 작성 시점에 확인하지 못해 보완한다.",
+      "analysis": "총매출 증가에는 인수한 파운드리 사업이 포함되므로 양자컴퓨팅 단일 부문의 순수 성장률로 보면 안 된다. 조정 EBITDA는 비GAAP 지표다.",
+      "importance": "high",
+      "sources": [
+        {
+          "title": "IonQ 2026년 3분기 실적 발표",
+          "url": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-3Q26-Revenues-and-Raises-FY2026-Guidance-to-505---515-Million-as-Backlog-Grows-to-1-2-Billion/",
+          "published_date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "addec10b28d23f684c24",
+      "company_ids": [
+        "ionq"
+      ],
+      "headline": "IONQ, Elisity 인수 발행 주식 수 SEC 공시",
+      "summary": "11월 5일 제출된 SEC 8-K에 따르면 IonQ는 Elisity 인수 종결 대가로 보통주 32,233,274주를 발행했다. 2028년 1월까지 재무 목표에 따라 최대 4,265,934주가 추가 지급될 수 있다. 공시는 인수 종결일을 11월 3일로 기재했으며, 회사는 11월 4일 종결을 발표했다.",
+      "analysis": "지난 보고에서 확인하지 못한 실제 발행 수량이 공개됐다. 추가 주식은 조건부이므로 이미 발행된 주식과 구분해야 한다.",
+      "importance": "high",
+      "sources": [
+        {
+          "title": "IonQ SEC Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526449779/ionq-20261103.htm",
+          "published_date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "4a9bf5b124f4e44de39e",
+      "company_ids": [
+        "quantinuum"
+      ],
+      "headline": "QNT 3분기 매출 910만 달러, 연간 가이던스 상향",
+      "summary": "11월 5일 발표된 Quantinuum의 3분기 매출은 910만 미국달러로 전년 동기 대비 233% 증가했다. 회사는 2026년 매출 전망을 2,800만~3,200만 달러에서 3,100만~3,400만 달러로 올렸다. 3분기 GAAP 순손실은 1억 1,800만 달러, 조정 EBITDA 손실은 8,000만 달러다. 이 실적은 직전 보고에서 누락돼 보완한다.",
+      "analysis": "매출 증가와 전망 상향에도 손실 규모가 매출을 크게 웃돈다. GAAP와 조정 지표는 서로 다른 기준이며 장래 수익성 개선을 보장하지 않는다.",
+      "importance": "high",
+      "sources": [
+        {
+          "title": "Quantinuum 2026년 3분기 실적 발표",
+          "url": "https://quantinuum.gcs-web.com/news-releases/news-release-details/quantinuum-reports-third-quarter-2026-results-and-raises-full",
+          "published_date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "f9632bb07ec2d2f1f5f5",
+      "company_ids": [
+        "pasqal"
+      ],
+      "headline": "PSQL 3분기 매출 감소, QPU 서비스 매출은 증가",
+      "summary": "Pasqal의 11월 6일 미감사 발표에 따르면 3분기 매출은 330만 유로로 전년 동기 570만 유로보다 감소했다. 전년에는 QPU 판매 매출 320만 유로가 있었으나 이번 분기에는 없었다. QPU 관련 서비스 매출은 310만 유로로 전년 동기 대비 53% 증가했고 9월 말 현금·현금성자산은 3억 1,280만 유로였다.",
+      "analysis": "매출은 장비 판매 시점에 따라 변동할 수 있다. 회사의 수주·선정 사업 지표 6,980만 유로에는 보조금과 세액공제도 포함되므로 고객 계약 잔고와 동일시할 수 없다.",
+      "importance": "high",
+      "sources": [
+        {
+          "title": "Pasqal 2026년 3분기 사업 업데이트",
+          "url": "https://investors.pasqal.com/news-releases/news-release-details/pasqal-reports-third-quarter-business-update",
+          "published_date": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "id": "fd585c8901c3967b8776",
+      "company_ids": [
+        "sealsq"
+      ],
+      "headline": "LAES, TechAgency와 양자내성 전환 협력",
+      "summary": "SEALSQ는 11월 6일 TechAgency와 전략적 협력 계약을 체결하고 고객의 암호화 현황 평가부터 양자내성 보안 전환까지 공동 지원할 계획이라고 밝혔다. 구체적인 수주액과 계약 기간은 발표하지 않았다.",
+      "analysis": "협력 체결은 고객 수주나 확정 매출 발표가 아니다. 실제 고객 계약과 하드웨어 매출 연결을 별도로 확인해야 한다.",
+      "importance": "normal",
+      "sources": [
+        {
+          "title": "SEALSQ와 TechAgency 협력 발표",
+          "url": "https://www.sealsq.com/investors/news-releases/sealsq-and-techagency-partner-to-guide-organizations-through-the-post-quantum-transition",
+          "published_date": "2026-11-06"
+        }
+      ]
+    }
+  ]
+}
