@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_attempt": {
-    "at": "2026-11-08T21:05:58.248281+00:00",
-    "status": "no_updates",
+    "at": "2026-11-09T21:06:42.330696+00:00",
+    "status": "partial",
     "reason": null
   },
   "companies": [
@@ -88,17 +88,20 @@
     }
   ],
   "briefing": {
-    "report_date": "2026-11-09",
-    "generated_at": "2026-11-09T06:04:53+09:00",
-    "window_start": "2026-11-08T06:30:50+09:00",
-    "window_end": "2026-11-09T06:04:53+09:00",
-    "status": "no_updates",
+    "report_date": "2026-11-10",
+    "generated_at": "2026-11-10T06:05:30+09:00",
+    "window_start": "2026-11-09T06:04:53+09:00",
+    "window_end": "2026-11-10T06:05:30+09:00",
+    "status": "partial",
     "checked_company_ids": [
       "ionq",
       "quantinuum",
       "rigetti-computing",
       "d-wave-quantum",
       "infleqtion",
+      "pasqal"
+    ],
+    "unavailable_company_ids": [
       "xanadu",
       "quantum-computing-inc",
       "qc-technologies",
@@ -108,10 +111,8 @@
       "btq-technologies",
       "quantum-emotion",
       "iqm-quantum-computers",
-      "pasqal",
       "psiquantum"
     ],
-    "unavailable_company_ids": [],
     "items": []
   }
 }
