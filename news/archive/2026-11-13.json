@@ -1,0 +1,63 @@
+{
+  "report_date": "2026-11-13",
+  "generated_at": "2026-11-13T05:58:02+09:00",
+  "window_start": "2026-11-12T05:56:24+09:00",
+  "window_end": "2026-11-13T05:58:02+09:00",
+  "status": "partial",
+  "checked_company_ids": [
+    "ionq",
+    "quantinuum",
+    "infleqtion",
+    "xanadu",
+    "quantum-computing-inc",
+    "qc-technologies",
+    "horizon-quantum",
+    "sealsq",
+    "quantum-emotion",
+    "psiquantum"
+  ],
+  "unavailable_company_ids": [
+    "rigetti-computing",
+    "d-wave-quantum",
+    "arqit-quantum",
+    "btq-technologies",
+    "iqm-quantum-computers",
+    "pasqal"
+  ],
+  "items": [
+    {
+      "id": "684d819679cff2858894",
+      "company_ids": [
+        "xanadu"
+      ],
+      "headline": "Xanadu 3분기 매출 130만 달러, 순손실 3,220만 달러",
+      "summary": "11월 11일 회사 발표에 따르면 2026년 3분기 매출은 130만 미국 달러로 전년 대비 32% 늘었고 순손실은 3,220만 달러였다. 9월 말 현금 및 현금성자산은 2억 8,650만 달러였다. 회사는 3분기 주식 발행 연계 자금조달을 이용하지 않았으며, 9월 말 기준 해당 약정의 잔여 한도는 최대 2억 3,280만 달러라고 밝혔다.",
+      "analysis": "3분기 실적은 매출 대비 손실이 큰 초기 사업 단계임을 보여준다. 잔여 한도는 실제 조달액이 아니며 향후 이용 시 희석 위험이 있다.",
+      "importance": "high",
+      "sources": [
+        {
+          "title": "Xanadu Announces Third Quarter 2026 Results (회사 발표)",
+          "url": "https://investors.xanadu.ai/news-releases/news-release-details/xanadu-announces-third-quarter-2026-results",
+          "published_date": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "b088747187dd125d4f92",
+      "company_ids": [
+        "psiquantum"
+      ],
+      "headline": "PsiQuantum·AMD, 양자·고전 컴퓨팅 인프라 협력 확대",
+      "summary": "11월 12일 양사 발표에 따르면 PsiQuantum과 AMD는 기존 FPGA 협력을 CPU·GPU·소프트웨어까지 확대해 양자·고전 컴퓨팅 인프라와 하이브리드 응용을 공동 설계하기로 했다. AMD의 PsiQuantum 지분 투자도 계획됐으나 투자액과 완료 여부는 발표되지 않았다.",
+      "analysis": "공동 설계는 개발 협력이며 AMD 투자는 계획 단계다. 상용화 일정이나 확정 매출로 간주할 수 없다.",
+      "importance": "high",
+      "sources": [
+        {
+          "title": "PsiQuantum and AMD Collaborate to Build the Computing Foundation (양사 발표)",
+          "url": "https://www.businesswire.com/news/home/20261112481657/en/",
+          "published_date": "2026-11-12"
+        }
+      ]
+    }
+  ]
+}
