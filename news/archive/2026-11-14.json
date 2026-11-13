@@ -1,0 +1,46 @@
+{
+  "report_date": "2026-11-14",
+  "generated_at": "2026-11-14T05:58:33+09:00",
+  "window_start": "2026-11-13T05:58:02+09:00",
+  "window_end": "2026-11-14T05:58:33+09:00",
+  "status": "partial",
+  "checked_company_ids": [
+    "ionq",
+    "quantinuum",
+    "rigetti-computing",
+    "infleqtion",
+    "xanadu",
+    "quantum-computing-inc",
+    "qc-technologies",
+    "horizon-quantum",
+    "sealsq",
+    "arqit-quantum",
+    "quantum-emotion",
+    "iqm-quantum-computers",
+    "pasqal",
+    "psiquantum"
+  ],
+  "unavailable_company_ids": [
+    "d-wave-quantum",
+    "btq-technologies"
+  ],
+  "items": [
+    {
+      "id": "c09afd8de977e1dc7ef3",
+      "company_ids": [
+        "ionq"
+      ],
+      "headline": "IonQ, CFO 교체 및 최고회계책임자 신설",
+      "summary": "11월 13일 회사 발표에 따르면 기존 CFO·COO Inder Singh이 즉시 물러나고, Commvault의 CFO Gary Merrill이 12월 초 IonQ CFO로 취임할 예정이다. 새로 신설된 최고회계책임자에는 Thomas A. Austin이 즉시 임명됐다. 회사 발표는 Singh의 구체적 퇴임 이유를 밝히지 않았다.",
+      "analysis": "재무 및 회계 책임자 교체는 기업 통합과 재무보고의 연속성을 확인할 사안이다. 발표만으로 퇴임 원인이나 실적 전망 변화를 단정할 수 없다.",
+      "importance": "high",
+      "sources": [
+        {
+          "title": "IonQ Announces Executive Leadership Evolution (회사 발표)",
+          "url": "https://www.ionq.com/news/ionq-announces-executive-leadership-evolution",
+          "published_date": "2026-11-13"
+        }
+      ]
+    }
+  ]
+}
