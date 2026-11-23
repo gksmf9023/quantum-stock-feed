@@ -1,0 +1,45 @@
+{
+  "report_date": "2026-11-24",
+  "generated_at": "2026-11-24T06:01:18+09:00",
+  "window_start": "2026-11-21T06:00:43+09:00",
+  "window_end": "2026-11-24T06:01:18+09:00",
+  "status": "ready",
+  "checked_company_ids": [
+    "ionq",
+    "quantinuum",
+    "rigetti-computing",
+    "d-wave-quantum",
+    "infleqtion",
+    "xanadu",
+    "quantum-computing-inc",
+    "qc-technologies",
+    "horizon-quantum",
+    "sealsq",
+    "arqit-quantum",
+    "btq-technologies",
+    "quantum-emotion",
+    "iqm-quantum-computers",
+    "pasqal",
+    "psiquantum"
+  ],
+  "unavailable_company_ids": [],
+  "items": [
+    {
+      "id": "e3a99f7fb09a9d2fa927",
+      "company_ids": [
+        "qc-technologies"
+      ],
+      "headline": "QCLS, 전환우선주·워런트 조건 변경 및 우선주 만기 연장 공시",
+      "summary": "Q/C Technologies는 11월 20일 PharmaCyte Biotech와 Series G·H 전환우선주 및 Series G 장기 워런트의 변경 조항과 실질 소유 제한을 수정하는 계약을 체결했다고 공시했다. 별도 변경으로 Series H 우선주 만기는 2027년 3월 2일에서 9월 2일로 연장됐다.",
+      "analysis": "전환우선주와 워런트의 권리 변경은 향후 지분 구조에 영향을 줄 수 있으나, 이번 공시만으로 새로 발행된 보통주 수를 단정할 수 없다.",
+      "importance": "high",
+      "sources": [
+        {
+          "title": "Q/C Technologies Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1321834/000149315226053558/form8-k.htm",
+          "published_date": "2026-11-20"
+        }
+      ]
+    }
+  ]
+}
