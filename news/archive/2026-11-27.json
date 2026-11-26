@@ -1,0 +1,50 @@
+{
+  "report_date": "2026-11-27",
+  "generated_at": "2026-11-27T06:01:03+09:00",
+  "window_start": "2026-11-26T06:01:22+09:00",
+  "window_end": "2026-11-27T06:01:03+09:00",
+  "status": "ready",
+  "checked_company_ids": [
+    "ionq",
+    "quantinuum",
+    "rigetti-computing",
+    "d-wave-quantum",
+    "infleqtion",
+    "xanadu",
+    "quantum-computing-inc",
+    "qc-technologies",
+    "horizon-quantum",
+    "sealsq",
+    "arqit-quantum",
+    "btq-technologies",
+    "quantum-emotion",
+    "iqm-quantum-computers",
+    "pasqal",
+    "psiquantum"
+  ],
+  "unavailable_company_ids": [],
+  "items": [
+    {
+      "id": "2555cfff02c683a03462",
+      "company_ids": [
+        "iqm-quantum-computers"
+      ],
+      "headline": "IQMX, 한국 QAI 800만~1,000만 유로 수주 SEC 공시",
+      "summary": "IQM은 한국 QAI로부터 54큐비트 양자컴퓨터와 관련 서비스를 800만~1,000만 유로에 수주했다고 밝혔다. 회사는 2027년 매출 인식과 그해 말까지 서울 데이터센터 납품을 예상한다. 회사의 최초 발표는 11월 25일 17:30 EET로 지난 브리핑 전에 나왔으나 누락됐으며, SEC 6-K는 지난 브리핑 후인 11월 25일 16:08 미국 동부시간에 접수됐다.",
+      "analysis": "수주가 확정 매출로 인식되는 시점은 납품 이행에 달려 있으므로 2027년 실적과 구분해 확인할 필요가 있다.",
+      "importance": "high",
+      "sources": [
+        {
+          "title": "IQM SEC 6-K 수주 공시 첨부자료",
+          "url": "https://www.sec.gov/Archives/edgar/data/2113060/000119312526478491/d137941dex991.htm",
+          "published_date": "2026-11-25"
+        },
+        {
+          "title": "IQM 6-K 접수 시각",
+          "url": "https://www.stocktitan.net/sec-filings/IQMX/6-k-iqm-quantum-computers-oyj-current-report-foreign-issuer-a425851ab6d3.html",
+          "published_date": "2026-11-25"
+        }
+      ]
+    }
+  ]
+}
